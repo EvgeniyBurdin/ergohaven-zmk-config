@@ -42,6 +42,13 @@
             timeout-ms = <40>;
             layers = <0>;
         };
+
+        combo_tab {
+            bindings = <&kp TAB>;
+            key-positions = <31 32>;
+            timeout-ms = <40>;
+            layers = <0>;
+        };
     };
 
     keymap {
