@@ -49,6 +49,11 @@
             timeout-ms = <40>;
             layers = <0>;
         };
+
+        lang_change {
+            bindings = <&lang_macro>;
+            key-positions = <45 46>;
+        };
     };
 
     keymap {
