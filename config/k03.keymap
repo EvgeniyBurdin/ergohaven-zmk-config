@@ -82,7 +82,7 @@
             bindings = <
 &none   &none  &none    &none    &none     &mo 3                     &none           &none           &kp LS(LA(LC(N1)))  &kp LS(LA(LC(N0)))  &none  &kp LS(LA(W))
 &none   &none  &none    &none    &none     &none                     &kp HOME        &kp PAGE_DOWN   &kp PAGE_UP         &kp END             &none  &kp LS(LA(V))
-&trans  &none  &kp F15  &kp F15  &kp LPAR  &none                     &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP              &kp RIGHT           &none  &none
+&trans  &none  &kp F13  &kp F15  &kp LPAR  &none                     &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP              &kp RIGHT           &none  &none
 &none   &none  &none    &none    &none     &none   &none     &none   &none           &kp CARET       &kp DOLLAR          &none               &none  &none
                &trans   &trans   &trans    &trans  &trans    &trans  &trans          &trans          &none               &mo 3
             >;
